@@ -1,0 +1,6 @@
+.venv/*
+.env
+memory.db
+approvals.db
+__pycache__/
+*.pyc

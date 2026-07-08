@@ -1,0 +1,5 @@
+timestamp,module,agent,step,status,details
+2026-06-29 09:16:55.141197,01_workflow_automation,WorkflowEngine,Input received,SUCCESS,Nordic Components Global AB
+2026-06-29 09:16:55.142197,01_workflow_automation,WorkflowEngine,Due diligence,SUCCESS,KYC package complete
+2026-06-29 09:16:55.142197,01_workflow_automation,WorkflowEngine,Policy check,SUCCESS,Policy scope determined
+2026-06-29 09:16:55.142197,01_workflow_automation,WorkflowEngine,Risk scoring,SUCCESS,Preliminary risk calculated
